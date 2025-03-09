@@ -1,2 +1,0 @@
-# MyAlexNet
-LeNet and AlexNet
